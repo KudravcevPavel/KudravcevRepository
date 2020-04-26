@@ -11,11 +11,12 @@ p {
     padding: 25px;
     width: 350px;
     border-radius: 1rem;
+    border-color: purple;
 }
 
 h1 {
     border-radius: 3rem;
-    border: 2px dashed palevioletred;
+    border: 2px dashed purple;
     text-align: center;
     border-top-style: inset;
 }
