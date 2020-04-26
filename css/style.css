@@ -8,9 +8,9 @@ p {
     letter-spacing: 2px;
     font-family: 'Times New Roman', Times, serif;
     margin: 25px;
-    padding: 45px;
-    width: 300px;
-    border-radius: 3rem;
+    padding: 25px;
+    width: 350px;
+    border-radius: 1rem;
 }
 
 h1 {
@@ -21,6 +21,6 @@ h1 {
 }
 
 html {
-    background-image: url(http://bgfons.com/upload/sky_texture1980.jpg)
+    background-image: url(https://html5book.ru/wp-content/uploads/2015/06/background28.jpg)
     
 }
