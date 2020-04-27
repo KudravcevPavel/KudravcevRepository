@@ -25,3 +25,7 @@ html {
     background-image: url(https://html5book.ru/wp-content/uploads/2015/06/background28.jpg)
     
 }
+img {width: 400px;
+float: right;
+margin-right: 700px;
+border-radius: 20px;}
